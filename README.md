@@ -10,7 +10,7 @@ yet another roadmap (mine) to phythonism and everything (up to you)
 - *what*: show the way I found useful
 
 ## conclusion
-this nearly 'no words' guide is what I would have paid for when I began the search
+this short and nearly 'no words' guide is what I would have paid for when I began the search
 
 ## License and Citation
 This material is released under the "No Rights Reserved" CC0
