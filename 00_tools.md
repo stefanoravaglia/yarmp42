@@ -20,7 +20,7 @@
 
 ***what***: community project management
 
-# ...more
+# ... and more
 
 ## on line
 ***why***: no installation
