@@ -20,11 +20,4 @@ Read more about CC0 [here](https://creativecommons.org/share-your-work/public-do
 
 No attribution required.
 
-<<<<<<< Updated upstream
 > yarmp42: yet another roadmap to phythonism and everything by Stefano Ravaglia, @GitHub.
-=======
-> yarmp42: yet another roadmap to phythonism and everything by Stefano Ravaglia, @GitHub.
-
-# vsc + github
-- stage
->>>>>>> Stashed changes
