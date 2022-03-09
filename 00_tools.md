@@ -2,20 +2,22 @@
 
 ## [![https://www.python.org/](https://www.python.org/static/img/python-logo.png)](https://www.python.org/)
 
-***why***: ''Python is a programming language that lets you work quickly
-and integrate systems more effectively''.
+***why***:
+> Python is a programming language that lets you work quickly
+and integrate systems more effectively
 
-- ## [![https://www.anaconda.com/](https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Anaconda_Logo.png/220px-Anaconda_Logo.png)](https://www.anaconda.com/products/individual)
+## [![https://www.anaconda.com/](https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Anaconda_Logo.png/220px-Anaconda_Logo.png)](https://www.anaconda.com/products/individual)
 
-    ***what***: python distribution with all that we will need (mainly environment maintenance and [Jupyter notebook](https://jupyter.org/))
+***what***: 
+   > Anaconda offers the easiest way to perform Python/R data science (...)
 
-## [Visual Studio Code <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="50">](https://code.visualstudio.com/)
+## [Visual Studio Code <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="15">](https://code.visualstudio.com/)
 ***why***: it doesn't come (why?) with Anaconda
 
 ***what***: project developement IDE
 
 
-## [GitHub <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50">](https://github.com/)
+## [GitHub <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="15">](https://github.com/)
 
 ***why***: we are not alone
 
